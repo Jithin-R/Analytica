@@ -1,0 +1,16 @@
+{
+  "name": "analytica",
+  "version": "1.0.0",
+  "description": "A Google Form Like App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jithin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "kafkajs": "^1.16.0"
+  }
+}
